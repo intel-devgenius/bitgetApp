@@ -1,0 +1,11 @@
+Documentação da operação.
+1. Execute o programa.
+2. Insira "Chave API", "Chave Secreta", "Frase-senha", "Valor da Negociação" e Intervalo.
+3. Selecione “Tipo” no menu suspenso.
+4. Se desejar operação automática, marque "Automático/Manual"
+5. Se você marcar "Automático/Manual",
+a negociação automática será iniciada e algumas informações serão exibidas.
+- Se quiser parar o método automático, desmarque-o.
+6. Você pode fazer o método manual no Método Automático
+7. Se você quiser alterar o valor da negociação, clique em "Desconectar" e defina-o.
+8. Se você quiser encerrar o programa, clique em "Sair"
